@@ -28,7 +28,7 @@ It is a function that works by sending a message when an object touches another 
 ATTENTİON:For the tramboline function to work correctly, you need to make the tag of your tramboline "trampoline" in unity.
 ## Author
 
-- [Efe Baydoğan](https://www.instagram.com/efebaydogan_) for design and development.
+- Created by Efe Baydoğan.
 
   ----------------------------------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Bir nesne başka bir nesneye dokunduğunda mesaj göndererek çalışan bir fonk
 DİKKAT:Trambolin fonksiyonunun doğru çalışması için trambolininizin etiketini unity'de "trampoline" yapmanız gerekir.
 ## Yazar
 
-- [Efe Baydoğan](https://www.instagram.com/efebaydogan_) tasarım ve kodlama için.
+- Efe Baydoğan tarafından oluşturuldu.
